@@ -7,122 +7,122 @@
 		<key>All.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>12</integer>
 		</dict>
 		<key>Boards.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>16</integer>
 		</dict>
 		<key>Build.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>13</integer>
 		</dict>
 		<key>Clean.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>7</integer>
+			<integer>19</integer>
 		</dict>
 		<key>Debug.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>10</integer>
+			<integer>22</integer>
 		</dict>
 		<key>Distribute.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>15</integer>
 		</dict>
 		<key>Document.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>14</integer>
 		</dict>
 		<key>Fast.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>9</integer>
+			<integer>21</integer>
 		</dict>
 		<key>Index.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>11</integer>
+			<integer>23</integer>
 		</dict>
 		<key>Make.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>8</integer>
+			<integer>20</integer>
 		</dict>
 		<key>Serial.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>17</integer>
 		</dict>
 		<key>Upload.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>6</integer>
+			<integer>18</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>D983AF881867A7A500CF5B52</key>
+		<key>D983B2C71867A97700CF5B52</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D983AF891867A7A500CF5B52</key>
+		<key>D983B2C81867A97700CF5B52</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D983AF8A1867A7A500CF5B52</key>
+		<key>D983B2C91867A97700CF5B52</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D983AF8B1867A7A500CF5B52</key>
+		<key>D983B2CA1867A97700CF5B52</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D983AF8C1867A7A500CF5B52</key>
+		<key>D983B2CB1867A97700CF5B52</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D983AF8D1867A7A500CF5B52</key>
+		<key>D983B2CC1867A97700CF5B52</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D983AF8E1867A7A500CF5B52</key>
+		<key>D983B2CD1867A97700CF5B52</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D983AF8F1867A7A500CF5B52</key>
+		<key>D983B2CE1867A97700CF5B52</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D983AF901867A7A500CF5B52</key>
+		<key>D983B2CF1867A97700CF5B52</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D983AF911867A7A500CF5B52</key>
+		<key>D983B2D01867A97700CF5B52</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D983AF921867A7A500CF5B52</key>
+		<key>D983B2D11867A97700CF5B52</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D983AF941867A7A500CF5B52</key>
+		<key>D983B2D31867A97700CF5B52</key>
 		<dict>
 			<key>primary</key>
 			<true/>
