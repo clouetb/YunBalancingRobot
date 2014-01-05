@@ -517,61 +517,25 @@
 		AAA2131223001526AA0002BC /* AccelStepper.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002BC /* AccelStepper.cpp */; };
 		AAA2131223001526AA0002BD /* AccelStepper.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002BD /* AccelStepper.h */; };
 		AAA2131223001526AA0002BF /* tabs.css in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002BF /* tabs.css */; };
-		AAA2131223001526AA0002C1 /* Adafruit_MotorShield.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002C1 /* Adafruit_MotorShield.cpp */; };
-		AAA2131223001526AA0002C2 /* Adafruit_MotorShield.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002C2 /* Adafruit_MotorShield.h */; };
-		AAA2131223001526AA0002C4 /* Adafruit_PWMServoDriver.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002C4 /* Adafruit_PWMServoDriver.cpp */; };
-		AAA2131223001526AA0002C5 /* Adafruit_PWMServoDriver.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002C5 /* Adafruit_PWMServoDriver.h */; };
-		AAA2131223001526AA0002C7 /* ADXL345.cfg in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002C7 /* ADXL345.cfg */; };
-		AAA2131223001526AA0002C8 /* ADXL345.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002C8 /* ADXL345.cpp */; };
-		AAA2131223001526AA0002C9 /* ADXL345.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002C9 /* ADXL345.h */; };
-		AAA2131223001526AA0002CB /* AFMotor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002CB /* AFMotor.cpp */; };
-		AAA2131223001526AA0002CC /* AFMotor.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002CC /* AFMotor.h */; };
 		AAA2131223001526AA0002CE /* CmdMessenger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002CE /* CmdMessenger.cpp */; };
 		AAA2131223001526AA0002CF /* CmdMessenger.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002CF /* CmdMessenger.h */; };
 		AAA2131223001526AA0002D0 /* Streaming.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002D0 /* Streaming.h */; };
 		AAA2131223001526AA0002D3 /* DueTimer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002D3 /* DueTimer.cpp */; };
 		AAA2131223001526AA0002D4 /* DueTimer.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002D4 /* DueTimer.h */; };
-		AAA2131223001526AA0002D6 /* FIR.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002D6 /* FIR.cpp */; };
-		AAA2131223001526AA0002D7 /* FIR.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002D7 /* FIR.h */; };
-		AAA2131223001526AA0002D9 /* FlexiTimer2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002D9 /* FlexiTimer2.cpp */; };
-		AAA2131223001526AA0002DA /* FlexiTimer2.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002DA /* FlexiTimer2.h */; };
-		AAA2131223001526AA0002DC /* HMC5883L.cfg in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002DC /* HMC5883L.cfg */; };
-		AAA2131223001526AA0002DD /* HMC5883L.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002DD /* HMC5883L.cpp */; };
-		AAA2131223001526AA0002DE /* HMC5883L.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002DE /* HMC5883L.h */; };
 		AAA2131223001526AA0002E0 /* I2Cdev.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002E0 /* I2Cdev.cpp */; };
 		AAA2131223001526AA0002E1 /* I2Cdev.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002E1 /* I2Cdev.h */; };
-		AAA2131223001526AA0002E3 /* IRremote.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002E3 /* IRremote.cpp */; };
-		AAA2131223001526AA0002E4 /* IRremote.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002E4 /* IRremote.h */; };
-		AAA2131223001526AA0002E5 /* IRremoteInt.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002E5 /* IRremoteInt.h */; };
 		AAA2131223001526AA0002E7 /* Kalman.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002E7 /* Kalman.h */; };
 		AAA2131223001526AA0002E9 /* MovingAvarageFilter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002E9 /* MovingAvarageFilter.cpp */; };
 		AAA2131223001526AA0002EA /* MovingAvarageFilter.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002EA /* MovingAvarageFilter.h */; };
-		AAA2131223001526AA0002EC /* helper_3dmath.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002EC /* helper_3dmath.h */; };
-		AAA2131223001526AA0002ED /* MPU6050.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002ED /* MPU6050.cpp */; };
-		AAA2131223001526AA0002EE /* MPU6050.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002EE /* MPU6050.h */; };
-		AAA2131223001526AA0002F0 /* MPU6050_9Axis_MotionApps41.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002F0 /* MPU6050_9Axis_MotionApps41.h */; };
-		AAA2131223001526AA0002F2 /* PID_AutoTune_v0.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002F2 /* PID_AutoTune_v0.cpp */; };
-		AAA2131223001526AA0002F3 /* PID_AutoTune_v0.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002F3 /* PID_AutoTune_v0.h */; };
 		AAA2131223001526AA0002F5 /* PID_v1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002F5 /* PID_v1.cpp */; };
 		AAA2131223001526AA0002F6 /* PID_v1.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002F6 /* PID_v1.h */; };
-		AAA2131223001526AA0002F9 /* RobotMotor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002F9 /* RobotMotor.cpp */; };
-		AAA2131223001526AA0002FB /* RobotMotor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002FB /* RobotMotor.cpp */; };
-		AAA2131223001526AA0002FD /* RobotMotor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002FD /* RobotMotor.cpp */; };
-		AAA2131223001526AA0002FE /* RobotMotor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002FE /* RobotMotor.cpp */; };
-		AAA2131223001526AA0002FF /* RobotMotor.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA0002FF /* RobotMotor.h */; };
-		AAA2131223001526AA000301 /* RobotMotor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA000301 /* RobotMotor.cpp */; };
-		AAA2131223001526AA000303 /* RobotMotor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA000303 /* RobotMotor.cpp */; };
-		AAA2131223001526AA000304 /* RobotMotor.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA000304 /* RobotMotor.h */; };
 		AAA2131223001526AA000306 /* Streaming.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA000306 /* Streaming.h */; };
-		AAA2131223001526AA000308 /* Event.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA000308 /* Event.cpp */; };
-		AAA2131223001526AA000309 /* Event.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA000309 /* Event.h */; };
-		AAA2131223001526AA00030A /* Timer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA00030A /* Timer.cpp */; };
-		AAA2131223001526AA00030B /* Timer.h in Sources */ = {isa = PBXBuildFile; fileRef = AAAA131223001526AA00030B /* Timer.h */; };
 		D982B31D1867A97800CF5B52 /* BalancingRobot.ino in Sources */ = {isa = PBXBuildFile; fileRef = D983B31D1867A97800CF5B52 /* BalancingRobot.ino */; };
 		D983B2D81867A97700CF5B52 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D983B2D71867A97700CF5B52 /* main.cpp */; };
 		D983B3461867AAAF00CF5B52 /* sense.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D983B3451867AAAF00CF5B52 /* sense.cpp */; };
 		D983B3491867AD3900CF5B52 /* move.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D983B3481867AD3800CF5B52 /* move.cpp */; };
 		D983B34C1867AF4600CF5B52 /* command.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D983B34B1867AF4600CF5B52 /* command.cpp */; };
+		D9E125561879C3620003DD86 /* MPU6050DMP.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D9E125541879C3620003DD86 /* MPU6050DMP.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -1085,56 +1049,19 @@
 		AAAA131223001526AA0002BC /* AccelStepper.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AccelStepper.cpp; sourceTree = "<group>"; };
 		AAAA131223001526AA0002BD /* AccelStepper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AccelStepper.h; sourceTree = "<group>"; };
 		AAAA131223001526AA0002BF /* tabs.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = tabs.css; sourceTree = "<group>"; };
-		AAAA131223001526AA0002C1 /* Adafruit_MotorShield.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Adafruit_MotorShield.cpp; sourceTree = "<group>"; };
-		AAAA131223001526AA0002C2 /* Adafruit_MotorShield.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Adafruit_MotorShield.h; sourceTree = "<group>"; };
-		AAAA131223001526AA0002C4 /* Adafruit_PWMServoDriver.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Adafruit_PWMServoDriver.cpp; sourceTree = "<group>"; };
-		AAAA131223001526AA0002C5 /* Adafruit_PWMServoDriver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Adafruit_PWMServoDriver.h; sourceTree = "<group>"; };
-		AAAA131223001526AA0002C7 /* ADXL345.cfg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ADXL345.cfg; sourceTree = "<group>"; };
-		AAAA131223001526AA0002C8 /* ADXL345.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ADXL345.cpp; sourceTree = "<group>"; };
-		AAAA131223001526AA0002C9 /* ADXL345.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADXL345.h; sourceTree = "<group>"; };
-		AAAA131223001526AA0002CB /* AFMotor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AFMotor.cpp; sourceTree = "<group>"; };
-		AAAA131223001526AA0002CC /* AFMotor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFMotor.h; sourceTree = "<group>"; };
 		AAAA131223001526AA0002CE /* CmdMessenger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CmdMessenger.cpp; sourceTree = "<group>"; };
 		AAAA131223001526AA0002CF /* CmdMessenger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CmdMessenger.h; sourceTree = "<group>"; };
 		AAAA131223001526AA0002D0 /* Streaming.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Streaming.h; sourceTree = "<group>"; };
 		AAAA131223001526AA0002D3 /* DueTimer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DueTimer.cpp; sourceTree = "<group>"; };
 		AAAA131223001526AA0002D4 /* DueTimer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DueTimer.h; sourceTree = "<group>"; };
-		AAAA131223001526AA0002D6 /* FIR.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FIR.cpp; sourceTree = "<group>"; };
-		AAAA131223001526AA0002D7 /* FIR.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FIR.h; sourceTree = "<group>"; };
-		AAAA131223001526AA0002D9 /* FlexiTimer2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FlexiTimer2.cpp; sourceTree = "<group>"; };
-		AAAA131223001526AA0002DA /* FlexiTimer2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlexiTimer2.h; sourceTree = "<group>"; };
-		AAAA131223001526AA0002DC /* HMC5883L.cfg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = HMC5883L.cfg; sourceTree = "<group>"; };
-		AAAA131223001526AA0002DD /* HMC5883L.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = HMC5883L.cpp; sourceTree = "<group>"; };
-		AAAA131223001526AA0002DE /* HMC5883L.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HMC5883L.h; sourceTree = "<group>"; };
 		AAAA131223001526AA0002E0 /* I2Cdev.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = I2Cdev.cpp; sourceTree = "<group>"; };
 		AAAA131223001526AA0002E1 /* I2Cdev.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = I2Cdev.h; sourceTree = "<group>"; };
-		AAAA131223001526AA0002E3 /* IRremote.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = IRremote.cpp; sourceTree = "<group>"; };
-		AAAA131223001526AA0002E4 /* IRremote.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IRremote.h; sourceTree = "<group>"; };
-		AAAA131223001526AA0002E5 /* IRremoteInt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IRremoteInt.h; sourceTree = "<group>"; };
 		AAAA131223001526AA0002E7 /* Kalman.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Kalman.h; sourceTree = "<group>"; };
 		AAAA131223001526AA0002E9 /* MovingAvarageFilter.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MovingAvarageFilter.cpp; sourceTree = "<group>"; };
 		AAAA131223001526AA0002EA /* MovingAvarageFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MovingAvarageFilter.h; sourceTree = "<group>"; };
-		AAAA131223001526AA0002EC /* helper_3dmath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = helper_3dmath.h; sourceTree = "<group>"; };
-		AAAA131223001526AA0002ED /* MPU6050.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MPU6050.cpp; sourceTree = "<group>"; };
-		AAAA131223001526AA0002EE /* MPU6050.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPU6050.h; sourceTree = "<group>"; };
-		AAAA131223001526AA0002F0 /* MPU6050_9Axis_MotionApps41.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPU6050_9Axis_MotionApps41.h; sourceTree = "<group>"; };
-		AAAA131223001526AA0002F2 /* PID_AutoTune_v0.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PID_AutoTune_v0.cpp; sourceTree = "<group>"; };
-		AAAA131223001526AA0002F3 /* PID_AutoTune_v0.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PID_AutoTune_v0.h; sourceTree = "<group>"; };
 		AAAA131223001526AA0002F5 /* PID_v1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PID_v1.cpp; sourceTree = "<group>"; };
 		AAAA131223001526AA0002F6 /* PID_v1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PID_v1.h; sourceTree = "<group>"; };
-		AAAA131223001526AA0002F9 /* RobotMotor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RobotMotor.cpp; sourceTree = "<group>"; };
-		AAAA131223001526AA0002FB /* RobotMotor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RobotMotor.cpp; sourceTree = "<group>"; };
-		AAAA131223001526AA0002FD /* RobotMotor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RobotMotor.cpp; sourceTree = "<group>"; };
-		AAAA131223001526AA0002FE /* RobotMotor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RobotMotor.cpp; sourceTree = "<group>"; };
-		AAAA131223001526AA0002FF /* RobotMotor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RobotMotor.h; sourceTree = "<group>"; };
-		AAAA131223001526AA000301 /* RobotMotor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RobotMotor.cpp; sourceTree = "<group>"; };
-		AAAA131223001526AA000303 /* RobotMotor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RobotMotor.cpp; sourceTree = "<group>"; };
-		AAAA131223001526AA000304 /* RobotMotor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RobotMotor.h; sourceTree = "<group>"; };
 		AAAA131223001526AA000306 /* Streaming.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Streaming.h; sourceTree = "<group>"; };
-		AAAA131223001526AA000308 /* Event.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Event.cpp; sourceTree = "<group>"; };
-		AAAA131223001526AA000309 /* Event.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Event.h; sourceTree = "<group>"; };
-		AAAA131223001526AA00030A /* Timer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Timer.cpp; sourceTree = "<group>"; };
-		AAAA131223001526AA00030B /* Timer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Timer.h; sourceTree = "<group>"; };
 		D983B2D41867A97700CF5B52 /* Index */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Index; sourceTree = BUILT_PRODUCTS_DIR; };
 		D983B2D71867A97700CF5B52 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		D983B2D91867A97700CF5B52 /* Makefile */ = {isa = PBXFileReference; explicitFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
@@ -1205,7 +1132,12 @@
 		D983B3481867AD3800CF5B52 /* move.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = move.cpp; sourceTree = "<group>"; };
 		D983B34A1867AE8F00CF5B52 /* command.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = command.h; sourceTree = "<group>"; };
 		D983B34B1867AF4600CF5B52 /* command.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = command.cpp; sourceTree = "<group>"; };
-		D983B34F1868322700CF5B52 /* MPU6050_6Axis_MotionApps20.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPU6050_6Axis_MotionApps20.h; sourceTree = "<group>"; };
+		D9E1254E1879C3620003DD86 /* MPU6050_DMP6.ino */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MPU6050_DMP6.ino; sourceTree = "<group>"; };
+		D9E125501879C3620003DD86 /* MPUTeapot.pde */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MPUTeapot.pde; sourceTree = "<group>"; };
+		D9E125521879C3620003DD86 /* MPU6050_raw.ino */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MPU6050_raw.ino; sourceTree = "<group>"; };
+		D9E125531879C3620003DD86 /* helper_3dmath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = helper_3dmath.h; sourceTree = "<group>"; };
+		D9E125541879C3620003DD86 /* MPU6050DMP.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MPU6050DMP.cpp; sourceTree = "<group>"; };
+		D9E125551879C3620003DD86 /* MPU6050DMP.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPU6050DMP.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -2969,25 +2901,15 @@
 		AAAA131223001526AA0002BA /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
+				D9E1254B1879C3620003DD86 /* MPU6050DMP */,
 				AAAA131223001526AA0002BB /* AccelStepper */,
-				AAAA131223001526AA0002C0 /* Adafruit_Motor_Shield */,
-				AAAA131223001526AA0002C6 /* ADXL345 */,
-				AAAA131223001526AA0002CA /* AFMotor */,
 				AAAA131223001526AA0002CD /* CmdMessenger */,
 				AAAA131223001526AA0002D2 /* DueTimer */,
-				AAAA131223001526AA0002D5 /* FIR */,
-				AAAA131223001526AA0002D8 /* FlexiTimer2 */,
-				AAAA131223001526AA0002DB /* HMC5883L */,
 				AAAA131223001526AA0002DF /* I2Cdev */,
-				AAAA131223001526AA0002E2 /* IRremote */,
 				AAAA131223001526AA0002E6 /* Kalman */,
 				AAAA131223001526AA0002E8 /* MovingAvarageFilter */,
-				AAAA131223001526AA0002EB /* MPU6050 */,
-				AAAA131223001526AA0002F1 /* PID_AutoTune_v0 */,
 				AAAA131223001526AA0002F4 /* PID_v1 */,
-				AAAA131223001526AA0002F7 /* RobotMotor */,
 				AAAA131223001526AA000305 /* Streaming */,
-				AAAA131223001526AA000307 /* Timer */,
 			);
 			name = Libraries;
 			path = /Users/benoitclouet/Documents/Arduino/libraries;
@@ -3011,44 +2933,6 @@
 			path = doc;
 			sourceTree = "<group>";
 		};
-		AAAA131223001526AA0002C0 /* Adafruit_Motor_Shield */ = {
-			isa = PBXGroup;
-			children = (
-				AAAA131223001526AA0002C1 /* Adafruit_MotorShield.cpp */,
-				AAAA131223001526AA0002C2 /* Adafruit_MotorShield.h */,
-				AAAA131223001526AA0002C3 /* utility */,
-			);
-			path = Adafruit_Motor_Shield;
-			sourceTree = "<group>";
-		};
-		AAAA131223001526AA0002C3 /* utility */ = {
-			isa = PBXGroup;
-			children = (
-				AAAA131223001526AA0002C4 /* Adafruit_PWMServoDriver.cpp */,
-				AAAA131223001526AA0002C5 /* Adafruit_PWMServoDriver.h */,
-			);
-			path = utility;
-			sourceTree = "<group>";
-		};
-		AAAA131223001526AA0002C6 /* ADXL345 */ = {
-			isa = PBXGroup;
-			children = (
-				AAAA131223001526AA0002C7 /* ADXL345.cfg */,
-				AAAA131223001526AA0002C8 /* ADXL345.cpp */,
-				AAAA131223001526AA0002C9 /* ADXL345.h */,
-			);
-			path = ADXL345;
-			sourceTree = "<group>";
-		};
-		AAAA131223001526AA0002CA /* AFMotor */ = {
-			isa = PBXGroup;
-			children = (
-				AAAA131223001526AA0002CB /* AFMotor.cpp */,
-				AAAA131223001526AA0002CC /* AFMotor.h */,
-			);
-			path = AFMotor;
-			sourceTree = "<group>";
-		};
 		AAAA131223001526AA0002CD /* CmdMessenger */ = {
 			isa = PBXGroup;
 			children = (
@@ -3068,34 +2952,6 @@
 			path = DueTimer;
 			sourceTree = "<group>";
 		};
-		AAAA131223001526AA0002D5 /* FIR */ = {
-			isa = PBXGroup;
-			children = (
-				AAAA131223001526AA0002D6 /* FIR.cpp */,
-				AAAA131223001526AA0002D7 /* FIR.h */,
-			);
-			path = FIR;
-			sourceTree = "<group>";
-		};
-		AAAA131223001526AA0002D8 /* FlexiTimer2 */ = {
-			isa = PBXGroup;
-			children = (
-				AAAA131223001526AA0002D9 /* FlexiTimer2.cpp */,
-				AAAA131223001526AA0002DA /* FlexiTimer2.h */,
-			);
-			path = FlexiTimer2;
-			sourceTree = "<group>";
-		};
-		AAAA131223001526AA0002DB /* HMC5883L */ = {
-			isa = PBXGroup;
-			children = (
-				AAAA131223001526AA0002DC /* HMC5883L.cfg */,
-				AAAA131223001526AA0002DD /* HMC5883L.cpp */,
-				AAAA131223001526AA0002DE /* HMC5883L.h */,
-			);
-			path = HMC5883L;
-			sourceTree = "<group>";
-		};
 		AAAA131223001526AA0002DF /* I2Cdev */ = {
 			isa = PBXGroup;
 			children = (
@@ -3103,16 +2959,6 @@
 				AAAA131223001526AA0002E1 /* I2Cdev.h */,
 			);
 			path = I2Cdev;
-			sourceTree = "<group>";
-		};
-		AAAA131223001526AA0002E2 /* IRremote */ = {
-			isa = PBXGroup;
-			children = (
-				AAAA131223001526AA0002E3 /* IRremote.cpp */,
-				AAAA131223001526AA0002E4 /* IRremote.h */,
-				AAAA131223001526AA0002E5 /* IRremoteInt.h */,
-			);
-			path = IRremote;
 			sourceTree = "<group>";
 		};
 		AAAA131223001526AA0002E6 /* Kalman */ = {
@@ -3132,27 +2978,6 @@
 			path = MovingAvarageFilter;
 			sourceTree = "<group>";
 		};
-		AAAA131223001526AA0002EB /* MPU6050 */ = {
-			isa = PBXGroup;
-			children = (
-				D983B34F1868322700CF5B52 /* MPU6050_6Axis_MotionApps20.h */,
-				AAAA131223001526AA0002EC /* helper_3dmath.h */,
-				AAAA131223001526AA0002ED /* MPU6050.cpp */,
-				AAAA131223001526AA0002EE /* MPU6050.h */,
-				AAAA131223001526AA0002F0 /* MPU6050_9Axis_MotionApps41.h */,
-			);
-			path = MPU6050;
-			sourceTree = "<group>";
-		};
-		AAAA131223001526AA0002F1 /* PID_AutoTune_v0 */ = {
-			isa = PBXGroup;
-			children = (
-				AAAA131223001526AA0002F2 /* PID_AutoTune_v0.cpp */,
-				AAAA131223001526AA0002F3 /* PID_AutoTune_v0.h */,
-			);
-			path = PID_AutoTune_v0;
-			sourceTree = "<group>";
-		};
 		AAAA131223001526AA0002F4 /* PID_v1 */ = {
 			isa = PBXGroup;
 			children = (
@@ -3162,78 +2987,12 @@
 			path = PID_v1;
 			sourceTree = "<group>";
 		};
-		AAAA131223001526AA0002F7 /* RobotMotor */ = {
-			isa = PBXGroup;
-			children = (
-				AAAA131223001526AA0002F8 /* ArduinoShieldR3 */,
-				AAAA131223001526AA0002FA /* Ardumoto */,
-				AAAA131223001526AA0002FC /* CR_Servo */,
-				AAAA131223001526AA0002FE /* RobotMotor.cpp */,
-				AAAA131223001526AA0002FF /* RobotMotor.h */,
-				AAAA131223001526AA000300 /* RobotMotor2wd */,
-				AAAA131223001526AA000302 /* RobotMotor4wd */,
-			);
-			path = RobotMotor;
-			sourceTree = "<group>";
-		};
-		AAAA131223001526AA0002F8 /* ArduinoShieldR3 */ = {
-			isa = PBXGroup;
-			children = (
-				AAAA131223001526AA0002F9 /* RobotMotor.cpp */,
-			);
-			path = ArduinoShieldR3;
-			sourceTree = "<group>";
-		};
-		AAAA131223001526AA0002FA /* Ardumoto */ = {
-			isa = PBXGroup;
-			children = (
-				AAAA131223001526AA0002FB /* RobotMotor.cpp */,
-			);
-			path = Ardumoto;
-			sourceTree = "<group>";
-		};
-		AAAA131223001526AA0002FC /* CR_Servo */ = {
-			isa = PBXGroup;
-			children = (
-				AAAA131223001526AA0002FD /* RobotMotor.cpp */,
-			);
-			path = CR_Servo;
-			sourceTree = "<group>";
-		};
-		AAAA131223001526AA000300 /* RobotMotor2wd */ = {
-			isa = PBXGroup;
-			children = (
-				AAAA131223001526AA000301 /* RobotMotor.cpp */,
-			);
-			path = RobotMotor2wd;
-			sourceTree = "<group>";
-		};
-		AAAA131223001526AA000302 /* RobotMotor4wd */ = {
-			isa = PBXGroup;
-			children = (
-				AAAA131223001526AA000303 /* RobotMotor.cpp */,
-				AAAA131223001526AA000304 /* RobotMotor.h */,
-			);
-			path = RobotMotor4wd;
-			sourceTree = "<group>";
-		};
 		AAAA131223001526AA000305 /* Streaming */ = {
 			isa = PBXGroup;
 			children = (
 				AAAA131223001526AA000306 /* Streaming.h */,
 			);
 			path = Streaming;
-			sourceTree = "<group>";
-		};
-		AAAA131223001526AA000307 /* Timer */ = {
-			isa = PBXGroup;
-			children = (
-				AAAA131223001526AA000308 /* Event.cpp */,
-				AAAA131223001526AA000309 /* Event.h */,
-				AAAA131223001526AA00030A /* Timer.cpp */,
-				AAAA131223001526AA00030B /* Timer.h */,
-			);
-			path = Timer;
 			sourceTree = "<group>";
 		};
 		D983B2C21867A97700CF5B52 = {
@@ -3368,6 +3127,51 @@
 				D983B31C1867A97800CF5B52 /* TemplateIcon.icns */,
 			);
 			name = Utilities;
+			sourceTree = "<group>";
+		};
+		D9E1254B1879C3620003DD86 /* MPU6050DMP */ = {
+			isa = PBXGroup;
+			children = (
+				D9E1254C1879C3620003DD86 /* Examples */,
+				D9E125531879C3620003DD86 /* helper_3dmath.h */,
+				D9E125541879C3620003DD86 /* MPU6050DMP.cpp */,
+				D9E125551879C3620003DD86 /* MPU6050DMP.h */,
+			);
+			path = MPU6050DMP;
+			sourceTree = "<group>";
+		};
+		D9E1254C1879C3620003DD86 /* Examples */ = {
+			isa = PBXGroup;
+			children = (
+				D9E1254D1879C3620003DD86 /* MPU6050_DMP6 */,
+				D9E125511879C3620003DD86 /* MPU6050_raw */,
+			);
+			path = Examples;
+			sourceTree = "<group>";
+		};
+		D9E1254D1879C3620003DD86 /* MPU6050_DMP6 */ = {
+			isa = PBXGroup;
+			children = (
+				D9E1254E1879C3620003DD86 /* MPU6050_DMP6.ino */,
+				D9E1254F1879C3620003DD86 /* Processing */,
+			);
+			path = MPU6050_DMP6;
+			sourceTree = "<group>";
+		};
+		D9E1254F1879C3620003DD86 /* Processing */ = {
+			isa = PBXGroup;
+			children = (
+				D9E125501879C3620003DD86 /* MPUTeapot.pde */,
+			);
+			path = Processing;
+			sourceTree = "<group>";
+		};
+		D9E125511879C3620003DD86 /* MPU6050_raw */ = {
+			isa = PBXGroup;
+			children = (
+				D9E125521879C3620003DD86 /* MPU6050_raw.ino */,
+			);
+			path = MPU6050_raw;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -3685,6 +3489,7 @@
 				AAA2131223001526AA000078 /* Udp.h in Sources */,
 				AAA2131223001526AA000079 /* USARTClass.cpp in Sources */,
 				AAA2131223001526AA00007A /* USARTClass.h in Sources */,
+				D9E125561879C3620003DD86 /* MPU6050DMP.cpp in Sources */,
 				AAA2131223001526AA00007C /* CDC.cpp in Sources */,
 				AAA2131223001526AA00007D /* HID.cpp in Sources */,
 				AAA2131223001526AA00007E /* USBAPI.h in Sources */,
@@ -4101,57 +3906,20 @@
 				AAA2131223001526AA0002BC /* AccelStepper.cpp in Sources */,
 				AAA2131223001526AA0002BD /* AccelStepper.h in Sources */,
 				AAA2131223001526AA0002BF /* tabs.css in Sources */,
-				AAA2131223001526AA0002C1 /* Adafruit_MotorShield.cpp in Sources */,
-				AAA2131223001526AA0002C2 /* Adafruit_MotorShield.h in Sources */,
-				AAA2131223001526AA0002C4 /* Adafruit_PWMServoDriver.cpp in Sources */,
-				AAA2131223001526AA0002C5 /* Adafruit_PWMServoDriver.h in Sources */,
-				AAA2131223001526AA0002C7 /* ADXL345.cfg in Sources */,
-				AAA2131223001526AA0002C8 /* ADXL345.cpp in Sources */,
-				AAA2131223001526AA0002C9 /* ADXL345.h in Sources */,
-				AAA2131223001526AA0002CB /* AFMotor.cpp in Sources */,
-				AAA2131223001526AA0002CC /* AFMotor.h in Sources */,
 				AAA2131223001526AA0002CE /* CmdMessenger.cpp in Sources */,
 				D983B3491867AD3900CF5B52 /* move.cpp in Sources */,
 				AAA2131223001526AA0002CF /* CmdMessenger.h in Sources */,
 				AAA2131223001526AA0002D0 /* Streaming.h in Sources */,
 				AAA2131223001526AA0002D3 /* DueTimer.cpp in Sources */,
 				AAA2131223001526AA0002D4 /* DueTimer.h in Sources */,
-				AAA2131223001526AA0002D6 /* FIR.cpp in Sources */,
-				AAA2131223001526AA0002D7 /* FIR.h in Sources */,
-				AAA2131223001526AA0002D9 /* FlexiTimer2.cpp in Sources */,
-				AAA2131223001526AA0002DA /* FlexiTimer2.h in Sources */,
-				AAA2131223001526AA0002DC /* HMC5883L.cfg in Sources */,
-				AAA2131223001526AA0002DD /* HMC5883L.cpp in Sources */,
-				AAA2131223001526AA0002DE /* HMC5883L.h in Sources */,
 				AAA2131223001526AA0002E0 /* I2Cdev.cpp in Sources */,
 				AAA2131223001526AA0002E1 /* I2Cdev.h in Sources */,
-				AAA2131223001526AA0002E3 /* IRremote.cpp in Sources */,
-				AAA2131223001526AA0002E4 /* IRremote.h in Sources */,
-				AAA2131223001526AA0002E5 /* IRremoteInt.h in Sources */,
 				AAA2131223001526AA0002E7 /* Kalman.h in Sources */,
 				AAA2131223001526AA0002E9 /* MovingAvarageFilter.cpp in Sources */,
 				AAA2131223001526AA0002EA /* MovingAvarageFilter.h in Sources */,
-				AAA2131223001526AA0002EC /* helper_3dmath.h in Sources */,
-				AAA2131223001526AA0002ED /* MPU6050.cpp in Sources */,
-				AAA2131223001526AA0002EE /* MPU6050.h in Sources */,
-				AAA2131223001526AA0002F0 /* MPU6050_9Axis_MotionApps41.h in Sources */,
-				AAA2131223001526AA0002F2 /* PID_AutoTune_v0.cpp in Sources */,
-				AAA2131223001526AA0002F3 /* PID_AutoTune_v0.h in Sources */,
 				AAA2131223001526AA0002F5 /* PID_v1.cpp in Sources */,
 				AAA2131223001526AA0002F6 /* PID_v1.h in Sources */,
-				AAA2131223001526AA0002F9 /* RobotMotor.cpp in Sources */,
-				AAA2131223001526AA0002FB /* RobotMotor.cpp in Sources */,
-				AAA2131223001526AA0002FD /* RobotMotor.cpp in Sources */,
-				AAA2131223001526AA0002FE /* RobotMotor.cpp in Sources */,
-				AAA2131223001526AA0002FF /* RobotMotor.h in Sources */,
-				AAA2131223001526AA000301 /* RobotMotor.cpp in Sources */,
-				AAA2131223001526AA000303 /* RobotMotor.cpp in Sources */,
-				AAA2131223001526AA000304 /* RobotMotor.h in Sources */,
 				AAA2131223001526AA000306 /* Streaming.h in Sources */,
-				AAA2131223001526AA000308 /* Event.cpp in Sources */,
-				AAA2131223001526AA000309 /* Event.h in Sources */,
-				AAA2131223001526AA00030A /* Timer.cpp in Sources */,
-				AAA2131223001526AA00030B /* Timer.h in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

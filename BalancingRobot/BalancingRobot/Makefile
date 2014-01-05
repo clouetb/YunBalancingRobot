@@ -59,7 +59,7 @@ APP_LIBS_LIST = Wire
 #	Kalman MovingAvarageFilter MPU6050 PID_AutoTune_v0 PID_v1 
 #	RobotMotor Streaming Timer 
 #
-USER_LIBS_LIST = MovingAvarageFilter AccelStepper CmdMessenger DueTimer I2Cdev PID_v1 MPU6050
+USER_LIBS_LIST = MovingAvarageFilter AccelStepper CmdMessenger DueTimer I2Cdev PID_v1 MPU6050DMP
 
 # List core, application and user libraries to be excluded
 # For example, WiFi may crash on Arduino 1.0.2

@@ -1,0 +1,15 @@
+ 	
+	embedXcode
+	embedXcode+
+	----------------------------------
+	Embedded Computing on Xcode
+	
+	
+	© Rei VILO, 2010-2013
+	All rights reserved	
+	http://embedXcode.weebly.com/
+	
+	
+embedXcode  • Nov 28, 2013 release 118 • Stability enhancement
+embedXcode+ • Nov 28, 2013 release 118 • External debugging for MSP430FR5739
+	

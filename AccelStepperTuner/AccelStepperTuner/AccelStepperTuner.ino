@@ -74,5 +74,5 @@ void setup() {
 
 // Add loop code
 void loop() {
-    
+    processSteppers();
 }

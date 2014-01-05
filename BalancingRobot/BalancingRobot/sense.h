@@ -3,7 +3,7 @@
 
 #include "Wire.h"
 #include "I2CDev.h"
-#include "MPU6050_6Axis_MotionApps20.h"
+#include "MPU6050DMP.h"
 
 extern MPU6050 mpu;
 extern float ypr[3];           // [yaw, pitch, roll]   yaw/pitch/roll container and gravity vector

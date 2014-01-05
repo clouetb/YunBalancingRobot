@@ -8,9 +8,9 @@
 
 #include "move.h"
 
-int motorSpeed = 19200;
-int motorMaxSpeed = 19200;
-int motorAccel = 80000; //steps/second/second to accelerate
+int motorSpeed = 1000;
+int motorMaxSpeed = 1400;
+int motorAccel = 8000; //steps/second/second to accelerate
 
 /*
 const int leftDirPin = 3;
@@ -33,13 +33,18 @@ void initSteppers()
     rightStepper.setSpeed(motorSpeed);
     leftStepper.setAcceleration(motorAccel);
     rightStepper.setAcceleration(motorAccel);
-    Timer3.getAvailable().attachInterrupt(processSteppers).setPeriod(10).start();
+//    Timer3.getAvailable().attachInterrupt(processSteppers).setPeriod(10).start();
 }
 
 void processSteppers()
 {
+    /*
     leftStepper.runSpeed();
     rightStepper.runSpeed();
+     */
+    leftStepper.run();
+    rightStepper.run();
+
 }
 
 void moveTo(int desiredPosition)
